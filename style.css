@@ -1,1 +1,13 @@
+body {
+    background-color: darkblue;
+}
 
+h1 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: calibri;
+    font-size: 20px;
+}
