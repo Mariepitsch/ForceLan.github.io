@@ -1,9 +1,6 @@
-<html>
-<head>
-</head>
-<body>
-<style>
-background-color: rgb(255,0,0);
-</style>
-</body>
-</html>
+html
+{
+  body{
+    background-color:blue;
+  }
+}
