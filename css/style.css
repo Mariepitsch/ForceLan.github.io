@@ -1,5 +1,12 @@
-
-  body{
-    background-color:blue;
-    color:black;
-  }
+<html>
+ <body>
+<style>
+    {background-color:blue;
+      color:black;}
+    h1 {
+    color: black;
+    text-align: center;
+}
+</style>
+      </body>
+</html>
